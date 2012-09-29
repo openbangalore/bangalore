@@ -3,4 +3,3 @@ Bangalore Open Data Repository is repository of data, code and related artifacts
 
 Check the project home page [http://openbangalore.org](openbangalore.org) for details.
 
-

@@ -1,1 +1,1 @@
-updated heatmap images
+moved the usage examples into a folder
