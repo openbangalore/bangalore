@@ -1,7 +1,7 @@
 data/Education/Bangalore_schools.csv.i
-data/GIS/usage/heatmap/ward.csv.i
+data/Census/2000/abbreviations_for_towns_cities.doc.i
 data/PublicTransport/BMTC/bmtc_big_10_routes_details_2012.csv.i
-data/GIS/bruhath_bangalore_mahanagara_palike.kml.d
+data/Election/BBMP/Bangalore_BBMP_2010_results.csv.i
 data/heatmap/examples/bbmp_2010_party_bjp0_inc1_jds3_indi_4_others5.csv.i
 data/heatmap/README.i
 data/Election/BBMP/Bangalore_BBMP_2010_results.js.i
@@ -9,16 +9,18 @@ data/GIS/bbmpwards/bbmpwards.shp.d
 data/logo.png.i
 data/GIS/bbmpwards/bbmpwards.shp.i
 data/GIS/usage/heatmap/bbmp_mfw.csv.i
+data/Census/2000/PCA2920_Primary_Census_Abstract_For_Bangalore_wards_and_district.ods.i
 data/Education/Bangalore_preschools.csv.i
 data/GIS/bruhath_bangalore_mahanagara_palike.kml.i
 data/heatmap/examples/mfw.png.d
 data/heatmap/examples/mfw.svg.i
+data/Census/2000/bangalore_district_demographic_profile .ods.i
 data/heatmap/examples/bbmp_mfw.csv.i
 data/GIS/bbmpwards/bbmpwards.fix.i
 data/heatmap/examples/mfw.svg.d
 data/heatmap/ward-colorize.py.i
 data/heatmap/BeautifulSoup.py.i
-data/Election/BBMP/Bangalore_BBMP_2010_results.csv.i
+data/GIS/bruhath_bangalore_mahanagara_palike.kml.d
 data/heatmap/bbmp-ward-org.svg.i
 data/heatmap/examples/mfw.png.i
 data/GIS/usage/heatmap/README.i
@@ -36,10 +38,13 @@ data/PublicTransport/BMTC/bmtc_city_and_sub_urban_routes_details_2010.csv.i
 data/PublicTransport/BMTC/bmtc_vaayu_vajra_routes_details_2012.csv.i
 data/GIS/bbmpwards/bbmpwards.sql.i
 data/Police/bangalore_city_police_stations_2012.csv.i
+data/Census/2000/Primary_Census_Abstract_Column_Explanation.ods.i
+data/Census/2000/Abbreviations for towns  cities.odt.i
 data/GIS/bruhath_bangalore_ mahanagara_palike.kml.d
+data/Census/2000/ward_names_bangalore_as_per_census.ods.i
 data/GIS/usage/heatmap/bbmp-ward.svg.d
 data/heatmap/examples/bbmp_2010_party.svg.d
-data/Weather/Temperature/bangalore_temparature_1901_2002.tsv.i
+data/GIS/usage/heatmap/ward.csv.i
 data/odbl.txt.i
 data/README.markdown.i
 data/Weather/Temperature/bangalore_temparature_1901_2002.js.i
@@ -48,10 +53,17 @@ data/heatmap/examples/bbmp_2010_party.svg.i
 data/heatmap/bbmp-ward-org.svg.d
 data/GIS/bbmpwards/bbmpwards.shx.i
 data/GIS/usage/heatmap/bbmp_2010_party_bjp0_inc1_jds3_indi_4_others5.csv.i
-data/heatmap/bbmp-ward.svg.d
+data/GIS/usage/heatmap/mfw.svg.d
+data/Census/2000/Census_Population_Bangalore.ods.i
 data/heatmap/bbmp-ward.svg.i
+data/Census/2000/Census_Population_Bangalore.ods.d
 data/GIS/bbmpwards/bbmpwards.sql.d
 data/PublicTransport/BMTC/bmtc_bus_stops_with_location_details.csv.i
+data/Census/2000/concepts_and_defnitions.odt.i
+data/GIS/bbmp-ward.svg.i
 data/GIS/usage/heatmap/mfw.svg.i
-data/GIS/usage/heatmap/mfw.svg.d
+data/Census/2000/PCA2920_Primary_Census_Abstract_For_Bangalore_wards_and_district.ods.d
+data/Weather/Temperature/bangalore_temparature_1901_2002.tsv.i
 data/GIS/bbmpwards/bbmpwards.qix.i
+data/heatmap/bbmp-ward.svg.d
+data/GIS/bbmp-ward.svg.d

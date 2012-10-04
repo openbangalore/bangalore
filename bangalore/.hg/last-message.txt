@@ -1,1 +1,1 @@
-moved the usage examples into a folder
+added census 2000 details
